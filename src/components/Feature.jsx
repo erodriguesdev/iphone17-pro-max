@@ -7,7 +7,7 @@ function Feature() {
                 <h1 className="text-7xl font-bold text-[#A6A6A6] mb-5">Mais resistente. Mais Pro.</h1>
                 <p className="flex text-[17px] text-center text-[#A6A6A6] break-normal w-160">Uma estrutura unibody em titânio Grau 5, polida em três acabamentos exclusivos. Cada detalhe esculpido com precisão obsessiva.</p>
             </div>
-            <img className="w-[40%] rounded-2xl mt-10 mb-50" src="./src/assets/iphone-feature.png" alt="" srcset="" />
+            <img className="w-[40%] rounded-2xl mt-10 mb-50" src="./public/img/iphone-feature.png" alt="Imagem"  />
 
         </section>
     )

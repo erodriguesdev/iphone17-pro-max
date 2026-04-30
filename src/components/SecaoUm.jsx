@@ -11,7 +11,7 @@ function SecaoUm() {
                     <p className="text-neutral-400 mt-10 break-normal w-150 text-center font-md text-[18px]">Arquitetura de 2nm. GPU de 6 núcleos. Neural Engine 40% mais rápido. Performance de classe desktop no seu bolso.</p>
                 </div>
                 <div className="rounded-[30px] bg-black p-4 drop-shadow-[0_0_60px_rgba(251,146,60,0.5)]">
-                    <img src="./src/assets/chip-a17.png"  className="w-full"/>
+                    <img src="./public/img/chip-a17.png"  className="w-full"/>
                 </div>
             </div>
         </section>

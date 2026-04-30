@@ -3,9 +3,9 @@ import { useState } from 'react'
 function SecaoDois() {
 
     const cores = [
-        { id: 'blue', image: './src/assets/iphone-blue.png', nome: 'Titânio Azul', cor: 'bg-blue-500' },
-        { id: 'silver', image: './src/assets/iphone-silver.png', nome: 'Titânio Natural', cor: 'bg-gray-300' },
-        { id: 'orange', image: './src/assets/iphone-orange.png', nome: 'Titânio Laranja', cor: 'bg-orange-500' },
+        { id: 'blue', image: './public/img/iphone-blue.png', nome: 'Titânio Azul', cor: 'bg-blue-500' },
+        { id: 'silver', image: './public/img/iphone-silver.png', nome: 'Titânio Natural', cor: 'bg-gray-300' },
+        { id: 'orange', image: './public/img/iphone-orange.png', nome: 'Titânio Laranja', cor: 'bg-orange-500' },
     ]
 
     const [selecionarCor, setSelecionarCor] = useState('orange')
