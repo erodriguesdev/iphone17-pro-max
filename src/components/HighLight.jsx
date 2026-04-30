@@ -5,7 +5,7 @@ function HighLight() {
         <section id="camera" className="flex justify-center rounded-4xl items-center w-[95%] mx-auto overflow-x-hidden bg-[#0A0A0A]">
             <div className="flex justify-center my-30">
                 <div>
-                    <img className="w-[80%] rounded-4xl" src="./public/img/iphone-orange.png" />
+                    <img className="w-[80%] rounded-4xl" src="./img/iphone-orange.png" />
                 </div>
                 <div className="flex flex-col gap-5">
                     <p className="text-[#F96F1F] uppercase tracking-wider">Sistema Pro Camera</p>
